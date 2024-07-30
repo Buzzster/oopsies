@@ -18,6 +18,6 @@ I have no bad intentions here, at all. I just want to have the person responsibl
 3. Change the MX record for `buzzster.co.uk` and remove or change the (current) IP for `mail.buzzster.co.uk`,
 4. Reset the Github account after the DNS is propagated and subsequentually delete this repository.
 
-That is all. Thank you for understanding. Hope I did not get you upset - you should have prevented this in the first place...
+That is all. Thank you for understanding. Hope I did not get you upset - you should have prevented this in the first place... And again, I have no bad intention here.
 
 ### EOF
